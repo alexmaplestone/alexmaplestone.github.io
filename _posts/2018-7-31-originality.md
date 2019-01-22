@@ -17,7 +17,7 @@ I’m not trying to single out this clothing store – I fully support giving ne
 ![Crowd of celebrating children](/images/happy-crowd.jpeg)
 [Photo by Min An from Pexels](https://www.pexels.com/photo/people-throwing-blue-powder-at-daytime-1157557/)
 
-...1. Or more precisely: [3 x 10<sup>614</sup> combinations.](https://www.quora.com/How-many-combinations-of-DNA-can-a-human-embody)
+1. Or more precisely: [3 x 10<sup>614</sup> combinations.](https://www.quora.com/How-many-combinations-of-DNA-can-a-human-embody)
 
 
 	
