@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For Sale Originality
+title: "For Sale: Originality"
 ---
 
 ![Clothing sale in window](/images/clothing-sale.jpeg)
