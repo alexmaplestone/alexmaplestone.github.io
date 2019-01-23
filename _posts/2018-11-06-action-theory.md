@@ -6,7 +6,7 @@ title: The Theory of Doing
 ![A mountain biker in mid-jump](/images/bmx.jpg)
 [Photo by user 12019 on Pixabay](https://pixabay.com/photo-95032/)
 
-Two months ago, creative minds had the same idea about creation: action is better than theory. Within two weeks, YouTubers [Peter McKinnon](https://www.youtube.com/watch?v=ksDDSIlTe3w),[Vlog Brothers](https://www.youtube.com/watch?v=7dxcO26i9uw), and [Cody Wanner](https://www.youtube.com/watch?v=iVnPqQpMfwU) published videos encouraging people to “just do it.” Work on your projects every day and you will improve. But how does theory fit in?
+Two months ago, creative minds had the same idea about creation: action is better than theory. Within two weeks, YouTubers [Peter McKinnon](https://www.youtube.com/watch?v=ksDDSIlTe3w), [Vlog Brothers](https://www.youtube.com/watch?v=7dxcO26i9uw), and [Cody Wanner](https://www.youtube.com/watch?v=iVnPqQpMfwU) published videos encouraging people to “just do it.” Work on your projects every day and you will improve. But how does theory fit in?
 
 ### Extremes
 
