@@ -11,6 +11,7 @@ Pop sucks. Rap is trash. The blues is dead. Classical is overrated. . . If we be
 Some people believe that the only songs worth listening to are the ones they like. What they do not realize is that **everyone's experience of music is subjective**. There is no 'best' genre.
 
 The difference between taste and quality is best explored with a metaphor. I'll use clothing, as preference for what we wear is just as individual as what we listen to.
+<!--more-->
 
 Some people enjoy wearing loud getups. Others like wearing neutral atire, vintage finds, or edgy garmets. **Each person has their own preference**, but that does not mean that yellow ties are better than beige socks, or bell bottoms better than ripped tank tops.
 
