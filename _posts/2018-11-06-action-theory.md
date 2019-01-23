@@ -28,5 +28,5 @@ Lastly, your work does not have to be perfect. Don’t let the unattainable idea
 
 So Do. Learn. Grow.
 		
-![A dramatic, sunlit hand playing the piano.](/pics/piano-hand.jpg)
+![A dramatic, sunlit hand playing the piano.](/images/piano-hand.jpg)
 [Photo by Tadas Mikuckis on Unsplash](https://unsplash.com/photos/hbnH0ILjUZE)
