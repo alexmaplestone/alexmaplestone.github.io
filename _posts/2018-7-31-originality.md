@@ -7,7 +7,7 @@ title: "For Sale: Originality"
 [Photo by Artem Bali from Pexels](https://www.pexels.com/photo/men-s-gray-and-black-button-up-shirt-on-mannequin-1086711/)
 
 On the bus I saw an ad for a vintage clothing store that read “Where originals originate.” I wanted to be just as cool as the models oozing confidence and style, but something about the slogan seemed off. How could buying some clothes transform an average person into an original one?
--more-
+<!--more-->
 
 Well, assuming the store sells unique clothing, wearing the physical manifestation of someone else’s original ideas does not grant you originality, just as owning books, the physical manifestation of others' intelligence, does not make you intelligent (although reading them may). In an alternate universe where objects transfer their creators' characteristics to their owners, mainstream use of an original product would negate its originality. Sure, you could choose unique combinations of clothing, but that proves that **originality comes from you, not from objects**. Originality emerges from your choices, ideas and insights. You cannot buy, sell, or otherwise transfer it. It is an abstract concept that corporations are attempting to capitalize on.
 
