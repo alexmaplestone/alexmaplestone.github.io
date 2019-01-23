@@ -6,7 +6,8 @@ title: How to Be Unconventional
 ![Graffiti of a man with a colourful beard](/images/art-man.jpg)
 [Photo from Picography on Pexels](https://www.pexels.com/photo/art-graffiti-illustration-man-4776/)
   
-North American media bombards us with slogans such as "break the rules" and "find your own path." Demoralizing advertising tells us that we are not enough, so we accept these vague directives without considering what actually constitutes uniqueness. We then look for the easy fix—[buy products that promise personality]({{ site.baseurl }}{% post_url 2018-07-31-originality %})—and we end up where we started, yearning to become more ourselves. 
+North American media bombards us with slogans such as "break the rules" and "find your own path." Demoralizing advertising tells us that we are not enough, so we accept these vague directives without considering what actually constitutes uniqueness. We then look for the easy fix—[buy products that promise personality]({{ site.baseurl }}{% post_url 2018-07-31-originality %})
+—and we end up where we started, yearning to become more ourselves. 
 
 You are unique. You don’t need to broadcast you character. In fact, silent confidence cuts through the noise better than more noise. That said, breaking conventions can be liberating in art and self expression. So the question remains: which conventions are worth breaking?
  
