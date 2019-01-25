@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Tuscan Child | Rhys Bowen
+stream: books
 ---
 
 <div class="book-stats">
