@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Genre Does Not Define Good Music
+stream: blog
 ---
 
 ![Woman dancing to music](/images/music-woman.jpeg)
