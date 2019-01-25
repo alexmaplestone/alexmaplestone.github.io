@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "For Sale: Originality"
+stream: blog
 ---
 
 ![Clothing sale in window](/images/clothing-sale.jpeg)
