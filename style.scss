@@ -20,8 +20,7 @@ html {
 body {
   background: $white;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
-  min-height: 100vh;	
+  color: $darkGray;	
 }
 
 .container {
@@ -109,6 +108,12 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+.book-img {
+  max-width: 14em;
+  float: left;
+  margin-right: 2em;
 }
 
 // Fixes images in popup boxes from Google Translate
