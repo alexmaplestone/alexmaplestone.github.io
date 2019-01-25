@@ -32,8 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  /*color: $darkerGray;*/
-  color: #008000;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -199,7 +198,8 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  /*color: $darkGray;*/
+  color: #008000;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -232,7 +232,8 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    /*color: $darkGray;*/
+    color: #008000;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
