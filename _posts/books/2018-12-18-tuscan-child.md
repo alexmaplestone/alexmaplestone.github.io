@@ -4,9 +4,7 @@ title: The Tuscan Child | Rhys Bowen
 stream: books
 ---
 
-<div class="book-img">
-  <img src="/images/tuscan-child.jpg" alt="The Tuscan Child book cover." />
-</div>
+<img src="/images/tuscan-child.jpg" alt="The Tuscan Child book cover." class="book-img" />
 
 <div class="book-stats">
   <p>Rating: 8/10 </p>
