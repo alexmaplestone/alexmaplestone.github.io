@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Be Unconventional
+stream: blog
 ---
 
 ![Graffiti of a man with a colourful beard](/images/art-man.jpg)
