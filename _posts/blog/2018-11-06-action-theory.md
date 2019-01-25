@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Theory of Doing
+stream: blog
 ---
 
 ![A mountain biker in mid-jump](/images/bmx.jpg)
