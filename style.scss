@@ -110,8 +110,9 @@ img {
   max-width: 100%;
 }
 
-hr {
-  margin: 3em 0em;	
+.books-info {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1em;
 }
 
 .book-img {
@@ -140,7 +141,7 @@ hr {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
+// Nicolas Gallagher's micro clearfix hack  
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
