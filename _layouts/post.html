@@ -13,16 +13,5 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+  {% include comments.html %}
 </article>
-
-<form method="POST" action="https://dev.staticman.net/v3/entry/github/alexmaplestone/alexmaplestone.github.io/_data/comments">
-  <input name="options[redirect]" type="hidden" value="https://alexmaplestone.github.io">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-  
-  <button type="submit">Go!</button>
-</form>
