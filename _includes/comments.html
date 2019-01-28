@@ -1,0 +1,22 @@
+
+<div class="comments">
+  <h2>What do you think?</h2>
+
+  <form method="POST" action="https://dev.staticman.net/v3/entry/github/alexmaplestone/alexmaplestone.github.io/_data/comments">
+    <!--<input name="options[redirect]" type="hidden" value="https://alexmaplestone.github.io">-->
+    <!-- e.g. "2016-01-02-this-is-a-post" -->
+    <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <label for="name-field">Name</label>
+    <input id="name-field" name="fields[name]" type="text">
+    <label for="email-field">E-mail</label>
+    <input id="email-field" name="fields[email]" type="email">
+    <label for="site-field">Site</label>
+    <input id="site-field" name="fields[site]" type="text">
+    <label for="comment-field">Comment</label>
+    <textarea id="comment-field">name="fields[message]"></textarea>
+  
+    <button type="submit">Go!</button>
+</form>
+
+
+</div>
