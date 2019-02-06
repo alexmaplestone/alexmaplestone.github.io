@@ -110,6 +110,11 @@ img {
   max-width: 100%;
 }
 
+input, textarea {
+  display: block;
+  margin-bottom: 1em;
+}
+
 .books-info {
   border-bottom: 1px solid #ddd;
   padding-bottom: 1em;
