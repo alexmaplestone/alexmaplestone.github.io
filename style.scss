@@ -115,6 +115,14 @@ input, textarea {
   margin-bottom: 1em;
 }
 
+textarea {
+  max-width: 740px;
+  height: 200px;
+  padding: 5px;
+  font-size: 100%;
+}
+  
+
 .books-info {
   border-bottom: 1px solid #ddd;
   padding-bottom: 1em;
