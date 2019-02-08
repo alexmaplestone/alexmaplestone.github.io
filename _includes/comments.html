@@ -1,5 +1,5 @@
 
-<div class="comments">
+<div class="comment-form">
   <h2>Thoughts? (Coming soon)</h2>
 
   <form method="POST" action="https://dev.staticman.net/v3/entry/github/alexmaplestone/alexmaplestone.github.io/_data/comments">
@@ -16,9 +16,21 @@
     <textarea id="comment-field" name="fields[message]"></textarea>
   
     <button type="submit">Go!</button>
-</form>
+  </form>
+</div>
   
-  {% for comment in /_data/comments/post.title %}
+  {% for comment in /_data/comments %}
+    <div class="comment">
+      {% if comment.site != null %}
+        <a href="{{ comment.site }}">
+          <h3>{{ comment.name }}</h3>
+        </a>
+      {% else %}
+        <h3>{{ comment.name }}</h3>
+      {% endif %}
+      
+      <p>{{ comment.date }}</p>
+      <p>{{ comment.message }}</p>
+    </div>
   {% endfor %}
 
-</div>
