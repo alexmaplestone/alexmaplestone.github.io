@@ -3,6 +3,8 @@ layout: post
 title: Some Thoughts on Inspiration
 stream: blog
 ---
+![A pencil resting on a blank notebook](/images/notebook.jpeg)
+[Photo by Miguel Á. Padriñán on Pexels](https://www.pexels.com/photo/wood-light-creative-space-68562/)
 
 You have more ideas than you realize. All it takes is to pay attention. Often I get so caught up in my thoughts that I don’t even notice what I’m thinking about. But when I am mindful, I can catch ideas before they leave.<!--more-->
 
