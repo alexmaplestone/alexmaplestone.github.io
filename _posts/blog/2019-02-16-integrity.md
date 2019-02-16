@@ -3,6 +3,8 @@ layout: post
 title: Am I Acting with Integrity?
 stream: blog
 ---
+![Two friends sharing a warm drink around the campfire.](/images/friends.jpeg)
+[Photo by Oleksandr Pidvalnyi on Pexels](https://www.pexels.com/photo/activity-adult-barbecue-bbq-344102/)
 
 I used to measure the success of social interactions based on how happy the other person was. If I offended someone, I "failed." But [judgment is just a reflection of someone’s insecurities](https://www.theminimalists.com/outrage/)—not my problem. While I now know that good relationships don’t depend on agreement, but on both parties contributing to the [“us box”](https://www.theminimalists.com/fall/), I still find myself agreeing with people to keep the peace. It feels fake. So instead of measuring outcomes, which I can’t control, I am going to start measuring my actions.
 
