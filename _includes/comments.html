@@ -27,6 +27,7 @@
 
   {% assign comments = site.data.comments[page.slug] | sort %}
   {% for comment in comments %}
+   <!-- old code
     <div class="comment">
       {% if comment.site != null %}
         <a href="{{ comment.site }}">
@@ -39,5 +40,13 @@
       <p>{{ comment.date }}</p>
       <p>{{ comment.message }}</p>
     </div>
+   -->
+
+    {% assign name = comment[1].name %}
+    {% assign email = comment[1].email %}
+    {% assign site = comment[1].site %}
+    {% assign date = comment[1].date %}
+    {% assign message = comment[1].message %}
+    {% include comments.html index=forloop.index name=name email=email site=site date=date message=message %}
   {% endfor %}
 
