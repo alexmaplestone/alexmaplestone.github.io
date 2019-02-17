@@ -5,21 +5,28 @@
   <form method="POST" action="https://dev.staticman.net/v3/entry/github/alexmaplestone/alexmaplestone.github.io/_data/comments">
     <!--<input name="options[redirect]" type="hidden" value="https://alexmaplestone.github.io">-->
     <!-- e.g. "2016-01-02-this-is-a-post" -->
-    <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    
+    <!-- Staticman filename code -->
+    <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
     <label for="name-field">Name</label>
-    <input id="name-field" name="fields[name]" type="text">
+    <input id="name-field" name="fields[name]" type="text" />
     <label for="email-field">Email</label>
-    <input id="email-field" name="fields[email]" type="email">
+    <input id="email-field" name="fields[email]" type="email" />
     <label for="site-field">Site (optional)</label>
-    <input id="site-field" name="fields[site]" type="text">
+    <input id="site-field" name="fields[site]" type="text" />
     <label for="comment-field">Comment</label>
     <textarea id="comment-field" name="fields[message]"></textarea>
+    <!-- bot spam filter -->
+    <label for="extra-field">Turing test: Leave blank if you are human.</label>
+    <input id="extra-field" name="fields[hidden]" type="text" autocomplete="off" />
   
     <button type="submit">Go!</button>
   </form>
 </div>
   
-  {% for comment in /_data/comments %}
+
+  {% assign comments = site.data.comments[page.slug] | sort %}
+  {% for comment in comments %}
     <div class="comment">
       {% if comment.site != null %}
         <a href="{{ comment.site }}">
