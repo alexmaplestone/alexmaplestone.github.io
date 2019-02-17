@@ -12,8 +12,8 @@
     <input id="name-field" name="fields[name]" type="text" />
     <label for="email-field">Email</label>
     <input id="email-field" name="fields[email]" type="email" />
-    <label for="site-field">Site (optional)</label>
-    <input id="site-field" name="fields[site]" type="text" />
+    <label for="url-field">Site (optional)</label>
+    <input id="url-field" name="fields[url]" type="text" />
     <label for="comment-field">Comment</label>
     <textarea id="comment-field" name="fields[message]"></textarea>
     <!-- bot spam filter -->
@@ -44,9 +44,9 @@
 
     {% assign name = comment[1].name %}
     {% assign email = comment[1].email %}
-    {% assign site = comment[1].site %}
+    {% assign url = comment[1].url %}
     {% assign date = comment[1].date %}
     {% assign message = comment[1].message %}
-    {% include comments.html index=forloop.index name=name email=email site=site date=date message=message %}
+    {% include comments.html index=forloop.index name=name email=email url=url date=date message=message %}
   {% endfor %}
 
