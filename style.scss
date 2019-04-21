@@ -13,8 +13,10 @@
 /* BASE RULES */
 /**************/
 
---main-green: #31db0b;
---orange: #ffc60b;
+:root {	
+  --main-green: #31db0b;
+  --orange: #ffc60b;
+}
 
 html {
   font-size: 100%;
