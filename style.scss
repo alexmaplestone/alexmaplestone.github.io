@@ -13,6 +13,9 @@
 /* BASE RULES */
 /**************/
 
+--main-green: #31db0b;
+--orange: #ffc60b;
+
 html {
   font-size: 100%;
 }
@@ -32,7 +35,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  /*color: $darkerGray;*/
+  color: var(--main-green);
   font-weight: bold;
 
   line-height: 1.7;
@@ -251,7 +255,8 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    /*color: $darkGray;*/
+    color: var(--orange);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
