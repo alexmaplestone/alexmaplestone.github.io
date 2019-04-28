@@ -8,7 +8,9 @@ stream: blog
 
 We must stop becoming 'triggered' the second we encounter an opposite viewpoint.
 
-When we react with anger and become closed minded ("My belief is the only right one! How stupid do you have to be to believe that crap?"), we trap ourselves in a dungeon of stale beliefs, diverting new, possibly life-altering information. I think we shelter ourselves not only for fear of being wrong, but also of losing our identities.
+When we react with anger and become closed minded ("My belief is the only right one! How stupid do you have to be to believe that crap?"), we trap ourselves in a dungeon of stale beliefs, diverting new, possibly life-altering information.
+
+I think we shelter ourselves not only for fear of being wrong, but also of losing our identities.<--more-->
 
 We hold our values and beliefs so dear that we often use them as shorthand descriptors for ourselves: "I'm a socialist/conservative, christian/atheist, optimist/realist, etc." Labeling ourselves associates us with others who hold similar values, which gives us a sense of social belonging and purpose. 
 
